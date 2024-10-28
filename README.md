@@ -16,7 +16,7 @@ R packages `ape`, `shiny`, and `admtools`.
 
 ## Usage
 
-In the RStudion IDE, open the file `treetransform.Rproj`. This will set all paths correctly. Then, run
+In the RStudio IDE, open the file `treetransform.Rproj`. This will set all paths correctly. Then, run
 
 ```R
 shiny::runApp()
